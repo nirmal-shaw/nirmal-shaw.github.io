@@ -529,6 +529,10 @@ nav {
     gap: 20px;
     line-height: 25px;
 }
+.certificates a{
+    text-decoration: none;
+    color: inherit;
+}
 
 .cert-card {
     border: 1px solid rgba(255, 255, 255, 0.10);
