@@ -6,6 +6,10 @@
     font-weight: 400;
     font-style: normal;
 }
+html ::selection{
+    color: rgb(213, 42, 16);
+}
+
 
 html {
     scroll-behavior: smooth;
@@ -214,6 +218,7 @@ nav {
 
 .vmw {
     background-color: #0f4ac9;
+    color: #e8e8f0;
     border: none;
     padding: 12px 28px;
     border-radius: 8px;
